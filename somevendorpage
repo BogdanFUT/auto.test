@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://www.futurumshop.nl/" />
+<title>somevendorpage</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">somevendorpage</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=2XU</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>2XU toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=R.S.P.</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=VBK Media BV</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>VBK Media BV toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Rudy Project</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Rudy Project toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Go2</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Go2</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Carrera</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Carrera</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=SRAM</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>SRAM toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Pro User</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Pro User toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=XSories</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>XSories toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Selle Italia</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Selle Italia toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Northwave</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Northwave toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Easy Camp</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Easy Camp toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=BOOOM</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>BOOOM toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Genuine Innovations</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Genuine Innovations toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Powertraveller</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Powertraveller toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Walla Walla</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=GoPro</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>GoPro toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Bianchi Milano</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Bianchi Milano toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Polar</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Polar toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=ISM</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>ISM</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Powertraveller</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Powertraveller toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=X-Bionic</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>X-Bionic toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Powerbar</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Powerbar toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Bryton</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Bryton toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fjällräven</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Fjällräven toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Sportourer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Sportourer toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Zone3</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Zone3</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Elite</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Elite toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Aftershokz</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Aftershokz</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=adidas</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h3.vendor_disp</td>
+	<td>adidas</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=exact:Magazine: Salt</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>exact:Magazine: Salt toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Suunto</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Suunto toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=The North Face</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>The North Face toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=O-Synce</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>O-Synce toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Pearl Izumi</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Pearl Izumi toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=BodyGuardz</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>BodyGuardz toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=GripGrab</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>GripGrab toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Buff</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Buff toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=VBK Media BV</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>VBK Media BV toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Sea To Summit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Sea To Summit toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Columbia</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Columbia toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Futurumshop</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Futurumshop toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Black Diamond</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Black Diamond toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Aqua2Go</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Aqua2Go toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=VDO</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>VDO toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Selle Royal</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Selle Royal</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Skins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Skins toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=De Marchi</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>De Marchi</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Bike7</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Bike7 toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Hapro</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Hapro toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Ozone</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Ozone toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Terra Nova</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Terra Nova toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Light&amp;Motion</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Light&amp;Motion toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Cannondale</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Cannondale toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=COCOON</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>COCOON toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Lizard Skins</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Lizard Skins toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Sigma Sport</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Sigma Sport toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Walla Walla</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.productName</td>
+	<td>Walla Walla Alles over GPS</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Nutrixxion</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Nutrixxion toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Cycloc</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Cycloc</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Cycleops</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Cube</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Cube toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Clif Bar</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Clif Bar toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Uebler</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Uebler toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Tacx</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Tacx toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=FSA</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>FSA toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fox</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Fox toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=BIKND</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>BIKND</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=K-Edge</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>K-Edge toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Ogio</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Ogio toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Barska</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Barska toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Arena</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Arena toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Castelli</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Castelli toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Rohner</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[2]/h1</td>
+	<td>Rohner toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Zipp</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Zipp toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=WeSc</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>WeSc</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=ZeroRh+</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>ZeroRh+</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Chariot</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Chariot toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Uvex</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Uvex toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Holmenkol</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Holmenkol</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Cadac</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=John van Ierland</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Joe`s No Flats</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Joe`s No Flats toppers</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Nike</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='content']/div/div[2]/div[3]/h1</td>
+	<td>Nike toppers</td>
+</tr>
+
+</tbody></table>
+</body>
+</html>

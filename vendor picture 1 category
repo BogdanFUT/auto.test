@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="https://www.futurumshop.nl/" />
+<title>vendor picture 1 category</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">vendor picture 1 category</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[2]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[3]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[4]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[5]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[6]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[7]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[7]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[8]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[9]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[10]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[11]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[12]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#6941 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=li.col-xs-4.col-sm-3 &gt; a &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#6941 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[2]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#6941 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[3]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#6941 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[4]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#6941 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[5]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#6941 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[6]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#6941 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[7]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#6941 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[8]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#6941 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[9]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#6941 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[10]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#6941 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[11]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7041 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=li.col-xs-4.col-sm-3 &gt; a &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7041 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[2]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7041 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[3]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7041 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[4]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7041 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[5]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7041 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[6]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7041 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[7]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7041 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[8]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7041 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[9]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7041 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[10]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7041 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[11]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7041 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[12]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7122 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=li.col-xs-4.col-sm-3 &gt; a &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7122 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[2]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>css=#7231 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7231 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[2]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7231 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[3]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7231 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[4]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7231 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[5]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7231 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[6]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7231 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[7]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7231 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[8]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7231 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[9]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7231 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[10]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7231 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[11]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7231 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[12]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7131 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=li.col-xs-4.col-sm-3 &gt; a &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7131 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[2]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7131 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[3]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7131 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[4]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7131 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[5]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7131 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[6]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7131 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[7]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7131 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[8]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7131 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[9]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7131 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[11]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7131 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[12]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7164 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=li.col-xs-4.col-sm-3 &gt; a &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7164 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[2]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7164 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[3]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7164 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[4]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7164 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[5]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7164 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[6]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7164 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[7]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7164 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[8]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7412 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=li.col-xs-4.col-sm-3 &gt; a &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7412 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[2]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7412 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[3]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7412 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[4]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7412 &gt; a.hidden-xs</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[5]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7412 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[6]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7412 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[7]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7412 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[8]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7412 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[9]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7412 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[10]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7412 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[11]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7412 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[12]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7658 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[12]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7658 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div[2]/div/div/ul/li[10]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7659 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div/div/div/ul/li[2]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7659 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div/div/div/ul/li[12]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7659 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div/div/div/ul/li[9]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7659 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div/div/div/ul/li[8]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7659 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div/div/div/ul/li[5]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7659 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div/div/div/ul/li[11]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7660 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=li.col-xs-4.col-sm-3 &gt; a &gt; img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7660 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div/div/div/ul/li[12]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7660 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div/div/div/ul/li[10]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7660 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div/div/div/ul/li[2]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7660 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7660 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>//div[@id='content']/div[2]/div/div/div/ul/li[9]/a/img</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7660 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+</tbody></table>
+</body>
+</html>

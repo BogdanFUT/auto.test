@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://www.futurumshop.nl/" />
+<title>category2lvl</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">category2lvl</td></tr>
+</thead><tbody>
+<tr>
+	<td>open</td>
+	<td>/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#6941 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=div.column.col-md-3 &gt; ul.col-md-12 &gt; li.groupName &gt; a</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1</td>
+	<td>Onze topmerken</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Downhill')])[6]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Downhill - FuturumShop, de specialist in downhill!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fietswielen</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietswielen - FuturumShop, de specialist met scherpe prijzen!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fietsbanden</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietsbanden - FuturumShop, de specialist in banden!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fietspedalen</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietspedalen - FuturumShop, de specialist in pedalen!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'FuturumShop Waardebonnen')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Zoekresultaten</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7041 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>//div[@id='productContent']/div[3]/h1</td>
+	<td>FuturumTIP</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=div.col-md-2 &gt; ul.column.col-md-12 &gt; li.groupName &gt; a</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fietsonderhoud</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fietsverlichting</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietsverlichting - FuturumShop, de specialist!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fietskarren</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietskarren - FuturumShop, de specialist met alle topmerken!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fietskoffers en Vervoer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietskoffers en vervoer - FuturumShop, de specialist!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fietskoffers en Vervoer</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietskoffers en vervoer - FuturumShop, de specialist!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Sportvoeding</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Sportvoeding - FuturumShop, de specialist in sportvoeding!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fietstrainers</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietstrainers - FuturumShop, de specialist in fietstrainers!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fietsrugzakken</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietsrugzakken - FuturumShop, de specialist in rugzakken!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Fietstassen')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietstassen - FuturumShop, de specialist in fietstassen!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fietsgereedschap</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietsgereedschap - FuturumShop, de specialist in gereedschap!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7122 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Mountainbikes</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Mountainbikes - FuturumShop, de specialist in mountainbikes!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Racefietsen</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Racefietsen - FuturumShop, de specialist in racefietsen!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Fietsen')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Trekkingfietsen')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietsen - Futurumshop, de specialist met het grootste assortiment fietsen</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=E-bikes</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietsen - Futurumshop, de specialist met het grootste assortiment fietsen</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7231 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7231 &gt; div.col-md-12.dropdown &gt; div.row.menuItems &gt; div.col-md-3 &gt; ul.column.col-md-12 &gt; li.groupName &gt; a</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Fietsdragers')])[11]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietsdragers - FuturumShop, de specialist in fietsendragers!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Outdoorkleding</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Outdoorkleding - FuturumShop, de specialist in outdoorkleding!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Fietskarren')])[4]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietskarren - FuturumShop, de specialist in fietskarren!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Wandelschoenen</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Wandelschoenen - FuturumShop, de specialist in wandelschoenen!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Wandel en trekkingrugzakken</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Wandel- en trekkingrugzakken - FuturumShop, de specialist!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Wintersport</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Wintersport - FuturumShop, de specialist in wintersport!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7131 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Hartslagmeters')])[4]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Hartslagmeters - FuturumShop, de specialist in hartslagmeters!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Sporthorloges</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Sporthorloges -&nbsp;&nbsp;FuturumShop, de specialist sporthorloges!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fietscomputers</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietscomputers - FuturumShop, de specialist in fietscomputers!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=GPS</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>GPS - FuturumShop, de specialist in GPS en software!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Electrostimulatie</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Electrostimulatie - FuturumShop, de specialist in electrostimulatie!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Fietscamera's</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Fietscamera's - FuturumShop, de specialist in camera's!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7164 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Zwemkleding')])[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Zwemkleding - FuturumShop, de specialist in zwemkleding!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Nightlife kleding</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Nightlife kleding - FuturumShop, de specialist in nightlife kleding!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Elektronica</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Elektronica - FuturumShop, de specialist met veel expertise!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7164 &gt; div.col-md-12.dropdown &gt; div.row.menuItems &gt; div.col-md-2 &gt; ul.column.col-md-12 &gt; li.groupName &gt; a</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Triathlonkleding -&nbsp;&nbsp;FuturumShop, de specialist!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Onderkleding')])[4]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Onderkleding - FuturumShop, de specialist in onderkleding!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Compressiekleding')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Compressiekleding - FuturumShop, de specialist!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Hardloopkleding</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Hardloopkleding - FuturumShop, de specialist!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Hardloopschoenen</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Hardloopschoenen - FuturumShop, de specialist in schoenen!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Sportvoeding')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Sportvoeding - FuturumShop, de specialist in sportvoeding!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7412 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Nightlife kleding')])[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Nightlife kleding - FuturumShop, de specialist in nightlife kleding!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Hardloopkleding')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Hardloopkleding - FuturumShop, de specialist!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Wandelschoenen')])[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Wandelschoenen - FuturumShop, de specialist in schoenen!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Onderkleding')])[7]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Onderkleding - FuturumShop, de specialist in onderkleding!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Compressiekleding')])[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Compressiekleding - FuturumShop, de specialist!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Sportvoeding')])[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Sportvoeding - FuturumShop, de specialist in sportvoeding!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7658 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Nightlife kleding')])[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Nightlife kleding - FuturumShop, de specialist in Nightlife Kleding!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Hardloopkleding')])[3]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Hardloopkleding - FuturumShop, de specialist in kleding!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Wandelschoenen')])[5]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Wandelschoenen - FuturumShop, de specialist in schoenen!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Onderkleding')])[10]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Onderkleding')])[10]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Onderkleding - FuturumShop, de specialist in onderkleding!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Compressiekleding')])[4]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Compressiekleding - FuturumShop, de specialist in compressie!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Sportvoeding')])[4]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Sportvoeding - FuturumShop, de specialist in sportvoeding!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7659 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Hardlooprugzakken')])[6]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Hardlooprugzakken - FuturumShop, de specialist in rugzakken!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Heuptassen')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Heuptassen - FuturumShop, de specialist in heuptassen!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7660 &gt; a.hidden-xs &gt; span.subItem</td>
+	<td></td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Hartslagmeters')])[9]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Hartslagmeters - FuturumShop, de specialist in hartslagmeters!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>css=#7660 &gt; div.col-md-12.dropdown &gt; div.row.menuItems &gt; div.col-md-3 &gt; ul.column.col-md-12 &gt; li.groupName &gt; a</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Sporthorloges - FuturumShop, de specialist in sporthorloges!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'GPS')])[8]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>GPS - FuturumShop, de specialist in GPS!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Activiteitsmeters</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Activiteitsmeters - FuturumShop, de specialist in stappentellers!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Electrostimulatie')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Electrostimulatie - FuturumShop, de specialist in electrostimulatie!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>link=Actiecamera's</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Actiecamera's - FuturumShop, de specialist in camera's!</td>
+</tr>
+<tr>
+	<td>clickAndWait</td>
+	<td>xpath=(//a[contains(text(),'Hoofdtelefoons &amp; oordopjes')])[2]</td>
+	<td></td>
+</tr>
+<tr>
+	<td>verifyText</td>
+	<td>css=h1.col-xs-12.col-md-6</td>
+	<td>Hoofdtelefoons &amp; oordopjes - FuturumShop, de specialist in hoofdtelefoons!</td>
+</tr>
+
+</tbody></table>
+</body>
+</html>
